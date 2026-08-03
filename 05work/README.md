@@ -1,9 +1,9 @@
 ผลลัพธ์ข้อ 1 ReverseString
-กรอกข้อความ: ธีรภัทร์
+กรอกข้อความ: น้ำผึ้ง
 
 ผลลัพธ์
-Recursive : ์รทัภรีธ
-Iterative : ์รทัภรีธ 
+Recursive : ง้ึผำ้น
+Iterative : ง้ึผำ้น
 
 ผลลัพธ์ข้อ 2 PalindromeCheck
 RU_372026ed/bin PalindromeCheck 
