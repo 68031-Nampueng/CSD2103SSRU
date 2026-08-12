@@ -1,5 +1,5 @@
   - คำสั่งในการค้นหา node ที่มีค่า blue  
-ใช้การเรียกเมธอด searchNode โดยส่ง head ของ Linked List และค่า blue ที่ต้องการค้นหาเข้าไป  
+ใช้การเรียกเมธอด searchNode โดยส่ง head ของ Linked List และค่า blue ที่ต้องการค้นหาเข้าไป    
   
 Node1<String> targetNode = searchNode(head, "blue");  
 System.out.println("search 'blue' = " + targetNode);  
