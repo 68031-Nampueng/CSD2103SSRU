@@ -1,4 +1,5 @@
-  - คำสั่งในการค้นหา node ที่มีค่า blue  
+  - คำสั่งในการค้นหา node ที่มีค่า blue
+  
 ใช้การเรียกเมธอด searchNode โดยส่ง head ของ Linked List และค่า blue ที่ต้องการค้นหาเข้าไป    
   
 Node1<String> targetNode = searchNode(head, "blue");  
@@ -13,7 +14,8 @@ pink ➔ ไม่ใช่ blue ➔ ขยับไปตัวถัดไป
 null (สุดสาย) ➔ หลุดลูป while ทันที  
 ผลลัพธ์: คืนค่ากลับมาเป็น null เพราะเดินจนสุดทางแล้วแต่ไม่เจอคำว่า blue ในลิสต์  
   
-  - Method ในการนับจำนวน node ใน list  
+  - Method ในการนับจำนวน node ใน list
+  
 นี่คือตัวเมธอด countNodes ที่ใช้สำหรับวนลูปนับจำนวน Node ทั้งหมดตั้งแต่หัว (head) ไปจนถึงท้ายลิสต์  
   
 public static <T> int countNodes(Node1<T> head) {  
